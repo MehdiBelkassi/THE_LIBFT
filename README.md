@@ -17,3 +17,6 @@ Libft is the first project at 1337 School, a custom C library that replicates ma
 → Conversion: ft_atoi, ft_itoa.
 ⊛ Bonus Part
 Linked List Functions: ft_lstnew, ft_lstadd_front, ft_lstsize, etc.
+
+#Subject
+[en.subject.pdf](https://github.com/user-attachments/files/17831660/en.subject.pdf)
