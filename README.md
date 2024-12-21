@@ -1,22 +1,6 @@
-# THE_LIBFT
+# The_libft
 
+The Libft project was a cornerstone in my journey to mastering C programming, teaching me how to recreate standard library functions and build my own reusable library from scratch. I developed a deep understanding of fundamental concepts like memory allocation, pointer manipulation, and string handling while ensuring efficiency and robustness in my implementations. This project also sharpened my debugging skills as I worked through edge cases and unexpected behaviors. By adhering to the strict Norminette coding standards, I learned to write clean, structured, and maintainable code. Beyond coding, Libft emphasized the importance of building a solid foundation for future projects, as this library serves as a reliable toolkit for solving diverse programming challenges.
 
-#Description
-Libft is the first project at 1337 School, a custom C library that replicates many standard C library functions and includes additional utility functions. This project is a foundational step in learning to write efficient and reusable code.
-
-#Features
-◉ Re-implemented standard C library functions.
-◉ Utility functions for strings, memory management, and linked lists.
-◉ Norm-compliant code for maximum readability and reusability.
-
-#Functions
-⊛ Mandatory Part
-→ String Manipulation: ft_strlen, ft_strchr, ft_strrchr, ft_strncmp, etc.
-→ Memory Manipulation: ft_memset, ft_memcpy, ft_memmove, etc.
-→ Character Checks: ft_isalpha, ft_isdigit, ft_isprint, etc.
-→ Conversion: ft_atoi, ft_itoa.
-⊛ Bonus Part
-Linked List Functions: ft_lstnew, ft_lstadd_front, ft_lstsize, etc.
-
-#Subject
-[en.subject.pdf](https://github.com/user-attachments/files/17831660/en.subject.pdf)
+# Subject
+[The Subject](https://github.com/user-attachments/files/17831660/en.subject.pdf)
